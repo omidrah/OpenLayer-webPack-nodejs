@@ -2,6 +2,8 @@ import {Map, View} from 'ol';
 import TileLayer from 'ol/layer/Tile';
 import XYZ from 'ol/source/XYZ';
 
+
+
 new Map({
   target: 'map',
   layers: [
